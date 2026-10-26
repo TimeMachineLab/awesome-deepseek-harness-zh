@@ -80,6 +80,13 @@
      "stars": 632,
      "pushed": "2026-10-25",
      "archived": false
+    },
+    {
+     "repo": "SteelUnion/dsh-wechat-queue",
+     "desc": "用微信直接和 dsh 对话，消息落盘、严格串行，重启不丢",
+     "stars": 1,
+     "pushed": "2026-10-26",
+     "archived": false
     }
    ]
   },
@@ -319,6 +326,13 @@
      "stars": 547,
      "pushed": "2026-10-25",
      "archived": false
+    },
+    {
+     "repo": "SteelUnion/dsh-softsensor-hub",
+     "desc": "统一收系统、邮件、行情、天气通知，按轻重决定该不该叫醒 agent",
+     "stars": 1,
+     "pushed": "2026-10-26",
+     "archived": false
     }
    ]
   },
@@ -385,6 +399,13 @@
      "repo": "xiufengsun/TokenTracker",
      "desc": "本地统计 31 种 AI 编程工具的 Token 和费用",
      "stars": 2131,
+     "pushed": "2026-10-26",
+     "archived": false
+    },
+    {
+     "repo": "SteelUnion/dsh-confirm-gate",
+     "desc": "按轮给持久化操作记账，超额度先提醒模型刹车，到上限停下来等你确认",
+     "stars": 1,
      "pushed": "2026-10-26",
      "archived": false
     }
