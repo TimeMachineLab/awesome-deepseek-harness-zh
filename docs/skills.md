@@ -74,27 +74,27 @@ description: 根据本周的 git 提交记录写一份中文周报。用户提�
 ## 精选 Skills
 
 <!-- BEGIN:projects -->
-> 星数和更新时间截至 2026-10-26，每周自动刷新。
+> 星数和更新时间截至 2026-11-02，每周自动刷新。
 
 ### Skills 合集与管理
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [anbeime/skill](https://github.com/anbeime/skill) | 中文 Skills 商店：精选技能包，打包好可直接安装 | 8.7k | 2026-10-25 |
-| [iflytek/skillhub](https://github.com/iflytek/skillhub) | 可私有部署的企业级 Skills 仓库 | 5.3k | 2026-10-26 |
-| [vinvcn/mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) | Matt Pocock skills 简体中文版，人工审核、同步上游，支持 dsh | 5.3k | 2026-10-20 |
-| [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) | 桌面端 Skills 管理器：写一次，同步到多个 Agent | 1.0k | 2026-09-10 |
+| [anbeime/skill](https://github.com/anbeime/skill) | 中文 Skills 商店：精选技能包，打包好可直接安装 | 9.0k | 2026-11-01 |
+| [vinvcn/mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) | Matt Pocock skills 简体中文版，人工审核、同步上游，支持 dsh | 5.5k | 2026-10-28 |
+| [iflytek/skillhub](https://github.com/iflytek/skillhub) | 可私有部署的企业级 Skills 仓库 | 5.4k | 2026-11-02 |
+| [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) | 桌面端 Skills 管理器：写一次，同步到多个 Agent | 1.1k | 2026-09-10 |
 
 ### 实用 Skills
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 把想法、方案或代码库变成可交互的架构图 | 89.4k | 2026-10-26 |
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 让 Agent 使用你已登录的真实浏览器 | 9.6k | 2026-10-25 |
-| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 用一页 HTML 回答复杂问题 | 4.5k | 2026-10-26 |
-| [Jesseovo/last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn) | 中文互联网研究：检索 8 大平台近 30 天讨论，生成带来源的报告 | 2.0k | 2026-10-21 |
-| [XiaoMaColtAI/math-modeling-skill](https://github.com/XiaoMaColtAI/math-modeling-skill) | 数学建模竞赛工作流：建模、编程、论文生成 | 1.9k | 2026-10-25 |
-| [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) | 给纯文本模型用的看图工具箱和技能 | 1.2k | 2026-10-13 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 把想法、方案或代码库变成可交互的架构图 | 92.5k | 2026-11-02 |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 让 Agent 使用你已登录的真实浏览器 | 9.9k | 2026-11-02 |
+| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 用一页 HTML 回答复杂问题 | 5.1k | 2026-11-02 |
+| [Jesseovo/last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn) | 中文互联网研究：检索 8 大平台近 30 天讨论，生成带来源的报告 | 2.0k | 2026-11-02 |
+| [XiaoMaColtAI/math-modeling-skill](https://github.com/XiaoMaColtAI/math-modeling-skill) | 数学建模竞赛工作流：建模、编程、论文生成 | 1.9k | 2026-11-01 |
+| [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) | 给纯文本模型用的看图工具箱和技能 | 1.3k | 2026-10-13 |
 <!-- END:projects -->
 
 更多 Skills 可以看 [anbeime/skill](https://github.com/anbeime/skill) 这样的 Skills 商店，或在 GitHub 上搜索 `topic:agent-skills`。

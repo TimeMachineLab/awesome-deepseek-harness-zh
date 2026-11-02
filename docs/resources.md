@@ -18,24 +18,24 @@
 ## 社区教程与列表
 
 <!-- BEGIN:projects -->
-> 星数和更新时间截至 2026-10-26，每周自动刷新。
+> 星数和更新时间截至 2026-11-02，每周自动刷新。
 
 ### 中文教程与资料
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
 | [alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book) | 《DeepSeek Harness 橙皮书》：系统提示词、启动清单、实测日志，免费下载 | 1.4k | 2026-10-20 |
-| [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) | 从 0 到 1 深度手册：安装、插件开发、性能调优、实测 | 909 | 2026-10-04 |
-| [ht426/deepseek-harness-tutorial](https://github.com/ht426/deepseek-harness-tutorial) | dsh 中文详细学习教程 | 285 | 2026-08-13 |
-| [pingfanfan/hello-dsh](https://github.com/pingfanfan/hello-dsh) | 零基础插件开发教程，含 22 个中文技能实例 | 103 | 2026-09-14 |
+| [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) | 从 0 到 1 深度手册：安装、插件开发、性能调优、实测 | 930 | 2026-10-04 |
+| [ht426/deepseek-harness-tutorial](https://github.com/ht426/deepseek-harness-tutorial) | dsh 中文详细学习教程 | 296 | 2026-08-13 |
+| [pingfanfan/hello-dsh](https://github.com/pingfanfan/hello-dsh) | 零基础插件开发教程，含 22 个中文技能实例 | 106 | 2026-09-14 |
 
 ### 其他精选列表
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 最大的 dsh 插件精选列表（中英） | 20.7k | 2026-10-25 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 最大的 dsh 插件精选列表（中英） | 21.9k | 2026-11-01 |
 | [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) | 英文生态大全，分类最细 | 1.3k | 2026-10-16 |
-| [libukai/awesome-deepseek-harness](https://github.com/libukai/awesome-deepseek-harness) | 中文生态列表 | 329 | 2026-09-12 |
+| [libukai/awesome-deepseek-harness](https://github.com/libukai/awesome-deepseek-harness) | 中文生态列表 | 343 | 2026-09-12 |
 <!-- END:projects -->
 
 ## 相关指南
