@@ -40,113 +40,113 @@ dsh plugin --profile web remove 插件包名
 收录标准：开源、与 dsh 明确相关、近两个月内有更新（教程资料不限）。**不收录**破甲 / 越狱、逆向接口、来源不明的「免 Key 免费模型」、借用他人订阅账号的插件。想推荐插件？见 [贡献指南](../CONTRIBUTING.md)。
 
 <!-- BEGIN:projects -->
-> 星数和更新时间截至 2026-11-02，每周自动刷新。
+> 星数和更新时间截至 2026-11-09，每周自动刷新。
 
 ### 桌面端与启动器
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 社区最火的 dsh 桌面端，把插件生态做成桌面应用 | 34.5k | 2026-11-02 |
-| [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | DSHDesktop：另一款主流 dsh 桌面版 | 17.1k | 2026-11-02 |
-| [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) | Tauri 桌面版，安装包约 8 MB，免配环境、预置插件 | 3.4k | 2026-11-02 |
-| [yyh-001/DSH-X](https://github.com/yyh-001/DSH-X) | 轻量启动器：多实例、版本、插件、整合包、MCP 与技能管理 | 769 | 2026-11-01 |
-| [lencx/Minke](https://github.com/lencx/Minke) | DeepSeek Harness 桌面客户端 | 696 | 2026-10-18 |
+| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 社区最火的 dsh 桌面端，把插件生态做成桌面应用 | 35.5k | 2026-11-06 |
+| [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | DSHDesktop：另一款主流 dsh 桌面版 | 17.6k | 2026-11-06 |
+| [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) | Tauri 桌面版，安装包约 8 MB，免配环境、预置插件 | 3.5k | 2026-11-09 |
+| [yyh-001/DSH-X](https://github.com/yyh-001/DSH-X) | 轻量启动器：多实例、版本、插件、整合包、MCP 与技能管理 | 774 | 2026-11-09 |
+| [lencx/Minke](https://github.com/lencx/Minke) | DeepSeek Harness 桌面客户端 | 700 | 2026-10-18 |
 
 ### 手机与远程访问
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [DSH-APP/DSHA](https://github.com/DSH-APP/DSHA) | 免 Root、免 Termux，在安卓手机上运行 dsh | 2.9k | 2026-11-02 |
-| [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) | 电脑上跑 dsh web，手机扫码同步访问（局域网 + 公网） | 2.7k | 2026-10-17 |
-| [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote) | P2P 优先、端到端加密的多端远程访问 | 1.3k | 2026-11-02 |
-| [saya-ch/dsh-mobile](https://github.com/saya-ch/dsh-mobile) | 安卓 App + 安全远程访问插件 | 718 | 2026-11-02 |
-| [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile) | 原生 iOS 客户端 | 710 | 2026-11-01 |
+| [DSH-APP/DSHA](https://github.com/DSH-APP/DSHA) | 免 Root、免 Termux，在安卓手机上运行 dsh | 3.2k | 2026-11-09 |
+| [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) | 电脑上跑 dsh web，手机扫码同步访问（局域网 + 公网） | 2.9k | 2026-10-17 |
+| [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote) | P2P 优先、端到端加密的多端远程访问 | 2.4k | 2026-11-09 |
+| [saya-ch/dsh-mobile](https://github.com/saya-ch/dsh-mobile) | 安卓 App + 安全远程访问插件 | 799 | 2026-11-09 |
+| [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile) | 原生 iOS 客户端 | 750 | 2026-11-08 |
 
 ### 插件市场与发现
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | dsh 可视化插件市场：浏览、搜索、一键安装 | 10.2k | 2026-11-01 |
-| [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | dsh Web 插件聚合生态，通过创意工坊分发 | 9.9k | 2026-11-02 |
-| [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) | 持续追踪 dsh 插件生态的雷达 | 1.5k | 2026-11-02 |
-| [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop) | 每日刷新的 dsh 插件商店 | 662 | 2026-11-02 |
+| [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | dsh 可视化插件市场：浏览、搜索、一键安装 | 11.6k | 2026-11-08 |
+| [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | dsh Web 插件聚合生态，通过创意工坊分发 | 10.3k | 2026-11-08 |
+| [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) | 持续追踪 dsh 插件生态的雷达 | 1.5k | 2026-11-09 |
+| [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop) | 每日刷新的 dsh 插件商店 | 662 | 2026-11-08 |
 
 ### 界面与交互
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 高性能终端界面（TUI）插件 | 6.6k | 2026-11-02 |
-| [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 可扩展侧边栏：文件编辑、终端、侧边对话、Git、子代理 | 4.8k | 2026-10-30 |
-| [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 在回复里渲染可交互的 UI 组件 | 842 | 2026-11-01 |
-| [Aisland-SJL/dsh-worktable](https://github.com/Aisland-SJL/dsh-worktable) | 面向项目的 Agent 工作台 | 826 | 2026-10-31 |
-| [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse) | 可视化、非线性的对话工作区 | 645 | 2026-10-30 |
+| [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 高性能终端界面（TUI）插件 | 7.3k | 2026-11-09 |
+| [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 可扩展侧边栏：文件编辑、终端、侧边对话、Git、子代理 | 5.0k | 2026-11-09 |
+| [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 在回复里渲染可交互的 UI 组件 | 941 | 2026-11-09 |
+| [Aisland-SJL/dsh-worktable](https://github.com/Aisland-SJL/dsh-worktable) | 面向项目的 Agent 工作台 | 849 | 2026-10-31 |
+| [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse) | 可视化、非线性的对话工作区 | 690 | 2026-11-04 |
 
 ### 上下文、记忆与省 Token
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | 底层操作工具集，减少 Token 消耗和任务耗时 | 5.0k | 2026-11-02 |
-| [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) | 上下文洞察与管理，带上下文仪表盘 | 4.0k | 2026-11-02 |
-| [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 可组合、基于视图的上下文来源 | 837 | 2026-11-01 |
-| [adoresever/graph-memory](https://github.com/adoresever/graph-memory) | 知识图谱记忆插件（同时支持 OpenClaw） | 665 | 2026-10-01 |
-| [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 跨会话长期记忆 + 后台自我进化 | 497 | 2026-10-29 |
+| [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | 底层操作工具集，减少 Token 消耗和任务耗时 | 5.6k | 2026-11-08 |
+| [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) | 上下文洞察与管理，带上下文仪表盘 | 4.7k | 2026-11-09 |
+| [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 可组合、基于视图的上下文来源 | 940 | 2026-11-08 |
+| [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 跨会话长期记忆 + 后台自我进化 | 729 | 2026-10-29 |
+| [adoresever/graph-memory](https://github.com/adoresever/graph-memory) | 知识图谱记忆插件（同时支持 OpenClaw） | 673 | 2026-10-01 |
 
 ### 联网搜索与视觉（给纯文本模型加眼睛）
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [liustack/modlens](https://github.com/liustack/modlens) | dsh 视觉插件，让纯文本模型也能看图 | 4.7k | 2026-10-23 |
-| [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 视觉路由：为纯文本模型接入看图能力 | 1.2k | 2026-11-01 |
-| [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 视觉工具箱：粘贴图片识别、多图问答、截图还原前端 | 920 | 2026-10-27 |
-| [liustack/modsearch](https://github.com/liustack/modsearch) | 免费联网搜索插件，免注册、无需 API Key | 906 | 2026-10-28 |
-| [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) | 基于 DuckDuckGo 的免费搜索提供方，无需 Key | 802 | 2026-11-02 |
-| [anysearch-team/anysearch-dsh](https://github.com/anysearch-team/anysearch-dsh) | AnySearch 搜索提供方与高级搜索工具 | 674 | 2026-10-10 |
+| [liustack/modlens](https://github.com/liustack/modlens) | dsh 视觉插件，让纯文本模型也能看图 | 4.9k | 2026-11-07 |
+| [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 视觉路由：为纯文本模型接入看图能力 | 1.2k | 2026-11-09 |
+| [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) | 基于 DuckDuckGo 的免费搜索提供方，无需 Key | 1.0k | 2026-11-08 |
+| [liustack/modsearch](https://github.com/liustack/modsearch) | 免费联网搜索插件，免注册、无需 API Key | 963 | 2026-11-07 |
+| [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 视觉工具箱：粘贴图片识别、多图问答、截图还原前端 | 934 | 2026-11-06 |
+| [anysearch-team/anysearch-dsh](https://github.com/anysearch-team/anysearch-dsh) | AnySearch 搜索提供方与高级搜索工具 | 687 | 2026-10-10 |
 
 ### 多 Agent 与自动化
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) | 长期运行的机器人团队，支持 bot 间消息 | 5.0k | 2026-11-02 |
+| [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) | 长期运行的机器人团队，支持 bot 间消息 | 6.5k | 2026-11-09 |
 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 两阶段预设：最小化启动，再加载完整工具 | 3.7k | 2026-10-21 |
-| [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) | 可嵌入的任务面板（支持 Codex 与 dsh） | 3.4k | 2026-10-29 |
-| [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | Agent Teams：多个 Agent 组队分工、并行协作 | 2.6k | 2026-10-30 |
-| [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser) | Chrome 侧边栏扩展，让 dsh 操作你的浏览器 | 958 | 2026-10-01 |
+| [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) | 可嵌入的任务面板（支持 Codex 与 dsh） | 3.5k | 2026-11-06 |
+| [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | Agent Teams：多个 Agent 组队分工、并行协作 | 2.8k | 2026-11-06 |
+| [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser) | Chrome 侧边栏扩展，让 dsh 操作你的浏览器 | 1.0k | 2026-11-08 |
 
 ### 消息与办公
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) | 把飞书、微信、钉钉、企业微信、QQ、Telegram 等机器人接入 dsh | 3.1k | 2026-11-01 |
-| [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design) | 可编辑的设计系统与 PPT 工作室 | 1.7k | 2026-10-30 |
-| [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office) | 给 dsh 一个真正的办公环境（Univer 表格 / 文档） | 654 | 2026-10-30 |
-| [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) | 科研工作台：LaTeX、arXiv、实验追踪、GPU 任务 | 551 | 2026-10-28 |
+| [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) | 把飞书、微信、钉钉、企业微信、QQ、Telegram 等机器人接入 dsh | 3.4k | 2026-11-07 |
+| [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design) | 可编辑的设计系统与 PPT 工作室 | 1.8k | 2026-11-04 |
+| [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office) | 给 dsh 一个真正的办公环境（Univer 表格 / 文档） | 701 | 2026-11-03 |
+| [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) | 科研工作台：LaTeX、arXiv、实验追踪、GPU 任务 | 562 | 2026-11-04 |
 
 ### 创作
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [sixtysevenlf/dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin) | 直连 Blender，让 AI 驱动 3D 建模 | 1.5k | 2026-11-01 |
-| [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll) | 每天替你刷 B 站、读字幕、写日报 | 1.1k | 2026-10-31 |
-| [shanliuling/dsh-image-gen](https://github.com/shanliuling/dsh-image-gen) | 对话内生成和编辑图像，内置 500+ 提示词，支持 ComfyUI | 1.1k | 2026-11-02 |
-| [LiPu-jpg/Openwrite](https://github.com/LiPu-jpg/Openwrite) | 小说创作插件，含 90 个写作工具 | 907 | 2026-10-28 |
-| [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh) | 网文、短剧、游戏、视频解说四个创作工作台 | 667 | 2026-10-30 |
+| [sixtysevenlf/dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin) | 直连 Blender，让 AI 驱动 3D 建模 | 1.9k | 2026-11-08 |
+| [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll) | 每天替你刷 B 站、读字幕、写日报 | 1.3k | 2026-11-08 |
+| [shanliuling/dsh-image-gen](https://github.com/shanliuling/dsh-image-gen) | 对话内生成和编辑图像，内置 500+ 提示词，支持 ComfyUI | 1.2k | 2026-11-08 |
+| [LiPu-jpg/Openwrite](https://github.com/LiPu-jpg/Openwrite) | 小说创作插件，含 90 个写作工具 | 935 | 2026-11-08 |
+| [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh) | 网文、短剧、游戏、视频解说四个创作工作台 | 715 | 2026-11-08 |
 
 ### 费用与用量
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) | 界面右下角的小鲸鱼，帮你盯 DeepSeek 账户余额 | 6.7k | 2026-10-11 |
-| [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) | 本地统计 31 种 AI 编程工具的 Token 和费用 | 2.2k | 2026-11-02 |
-| [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) | 按会话、按模型统计 dsh 的花费和 Token | 598 | 2026-11-02 |
+| [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) | 界面右下角的小鲸鱼，帮你盯 DeepSeek 账户余额 | 7.1k | 2026-10-11 |
+| [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) | 本地统计 31 种 AI 编程工具的 Token 和费用 | 2.2k | 2026-11-09 |
+| [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) | 按会话、按模型统计 dsh 的花费和 Token | 655 | 2026-11-09 |
 
 ### 皮肤与趣味
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) | 一行命令装好的桌面宠物 | 5.3k | 2026-11-02 |
-| [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine) | 把 Wallpaper Engine 壁纸搬进 dsh 网页界面 | 4.5k | 2026-10-31 |
-| [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | 鲸鱼娘系列皮肤 | 3.0k | 2026-11-01 |
-| [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) | 类酒馆文字游戏 Agent，兼容 SillyTavern 人物卡 | 1.4k | 2026-11-02 |
+| [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine) | 把 Wallpaper Engine 壁纸搬进 dsh 网页界面 | 6.1k | 2026-11-09 |
+| [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) | 一行命令装好的桌面宠物 | 5.9k | 2026-11-09 |
+| [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | 鲸鱼娘系列皮肤 | 3.1k | 2026-11-08 |
+| [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) | 类酒馆文字游戏 Agent，兼容 SillyTavern 人物卡 | 1.5k | 2026-11-09 |
 <!-- END:projects -->
 
 ## 写自己的插件

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-09",
  "sections": [
   {
    "file": "docs/plugins.md",
@@ -8,36 +8,36 @@
     {
      "repo": "anywhere-labs/dsh-desktop",
      "desc": "社区最火的 dsh 桌面端，把插件生态做成桌面应用",
-     "stars": 34464,
-     "pushed": "2026-11-02",
+     "stars": 35453,
+     "pushed": "2026-11-06",
      "archived": false
     },
     {
      "repo": "dataelement/dsh-desktop",
      "desc": "DSHDesktop：另一款主流 dsh 桌面版",
-     "stars": 17082,
-     "pushed": "2026-11-02",
+     "stars": 17628,
+     "pushed": "2026-11-06",
      "archived": false
     },
     {
      "repo": "dsh-tauri/deepseek-harness-desktop",
      "desc": "Tauri 桌面版，安装包约 8 MB，免配环境、预置插件",
-     "stars": 3414,
-     "pushed": "2026-11-02",
+     "stars": 3546,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "lencx/Minke",
      "desc": "DeepSeek Harness 桌面客户端",
-     "stars": 696,
+     "stars": 700,
      "pushed": "2026-10-18",
      "archived": false
     },
     {
      "repo": "yyh-001/DSH-X",
      "desc": "轻量启动器：多实例、版本、插件、整合包、MCP 与技能管理",
-     "stars": 769,
-     "pushed": "2026-11-01",
+     "stars": 774,
+     "pushed": "2026-11-09",
      "archived": false
     }
    ]
@@ -49,36 +49,36 @@
     {
      "repo": "shaobeichen/dsh-pocket",
      "desc": "电脑上跑 dsh web，手机扫码同步访问（局域网 + 公网）",
-     "stars": 2665,
+     "stars": 2856,
      "pushed": "2026-10-17",
      "archived": false
     },
     {
      "repo": "DSH-APP/DSHA",
      "desc": "免 Root、免 Termux，在安卓手机上运行 dsh",
-     "stars": 2873,
-     "pushed": "2026-11-02",
+     "stars": 3216,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "liguobao/ds-harness-remote",
      "desc": "P2P 优先、端到端加密的多端远程访问",
-     "stars": 1252,
-     "pushed": "2026-11-02",
+     "stars": 2357,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "Clarklevis1995/dsh-mobile",
      "desc": "原生 iOS 客户端",
-     "stars": 710,
-     "pushed": "2026-11-01",
+     "stars": 750,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "saya-ch/dsh-mobile",
      "desc": "安卓 App + 安全远程访问插件",
-     "stars": 718,
-     "pushed": "2026-11-02",
+     "stars": 799,
+     "pushed": "2026-11-09",
      "archived": false
     }
    ]
@@ -90,29 +90,29 @@
     {
      "repo": "dsh-market/dsh-market",
      "desc": "dsh 可视化插件市场：浏览、搜索、一键安装",
-     "stars": 10186,
-     "pushed": "2026-11-01",
+     "stars": 11590,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "zhu1090093659/dsh-web",
      "desc": "dsh Web 插件聚合生态，通过创意工坊分发",
-     "stars": 9935,
-     "pushed": "2026-11-02",
+     "stars": 10258,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "AdamPlatin123/dsh-plugin-radar",
      "desc": "持续追踪 dsh 插件生态的雷达",
-     "stars": 1489,
-     "pushed": "2026-11-02",
+     "stars": 1496,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "LivXue/dsh-plugin-shop",
      "desc": "每日刷新的 dsh 插件商店",
      "stars": 662,
-     "pushed": "2026-11-02",
+     "pushed": "2026-11-08",
      "archived": false
     }
    ]
@@ -124,35 +124,35 @@
     {
      "repo": "ccch1mneyyy/dsh-TUI",
      "desc": "高性能终端界面（TUI）插件",
-     "stars": 6559,
-     "pushed": "2026-11-02",
+     "stars": 7273,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "omdsh-dev/DSH-better-sidebar",
      "desc": "可扩展侧边栏：文件编辑、终端、侧边对话、Git、子代理",
-     "stars": 4816,
-     "pushed": "2026-10-30",
+     "stars": 5019,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "omdsh-dev/dsh-genui",
      "desc": "在回复里渲染可交互的 UI 组件",
-     "stars": 842,
-     "pushed": "2026-11-01",
+     "stars": 941,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "liangmianya/dsh-synapse",
      "desc": "可视化、非线性的对话工作区",
-     "stars": 645,
-     "pushed": "2026-10-30",
+     "stars": 690,
+     "pushed": "2026-11-04",
      "archived": false
     },
     {
      "repo": "Aisland-SJL/dsh-worktable",
      "desc": "面向项目的 Agent 工作台",
-     "stars": 826,
+     "stars": 849,
      "pushed": "2026-10-31",
      "archived": false
     }
@@ -165,35 +165,35 @@
     {
      "repo": "bowenliang123/dsh-context",
      "desc": "上下文洞察与管理，带上下文仪表盘",
-     "stars": 3991,
-     "pushed": "2026-11-02",
+     "stars": 4718,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "T-Auto/dsh-ops",
      "desc": "底层操作工具集，减少 Token 消耗和任务耗时",
-     "stars": 5031,
-     "pushed": "2026-11-02",
+     "stars": 5615,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "omdsh-dev/dsh-mnemon",
      "desc": "可组合、基于视图的上下文来源",
-     "stars": 837,
-     "pushed": "2026-11-01",
+     "stars": 940,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "csyangwen/dsh-memory-evolve",
      "desc": "跨会话长期记忆 + 后台自我进化",
-     "stars": 497,
+     "stars": 729,
      "pushed": "2026-10-29",
      "archived": false
     },
     {
      "repo": "adoresever/graph-memory",
      "desc": "知识图谱记忆插件（同时支持 OpenClaw）",
-     "stars": 665,
+     "stars": 673,
      "pushed": "2026-10-01",
      "archived": false
     }
@@ -206,43 +206,43 @@
     {
      "repo": "liustack/modsearch",
      "desc": "免费联网搜索插件，免注册、无需 API Key",
-     "stars": 906,
-     "pushed": "2026-10-28",
+     "stars": 963,
+     "pushed": "2026-11-07",
      "archived": false
     },
     {
      "repo": "DDDMUC/dsh-free-search",
      "desc": "基于 DuckDuckGo 的免费搜索提供方，无需 Key",
-     "stars": 802,
-     "pushed": "2026-11-02",
+     "stars": 1008,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "anysearch-team/anysearch-dsh",
      "desc": "AnySearch 搜索提供方与高级搜索工具",
-     "stars": 674,
+     "stars": 687,
      "pushed": "2026-10-10",
      "archived": false
     },
     {
      "repo": "liustack/modlens",
      "desc": "dsh 视觉插件，让纯文本模型也能看图",
-     "stars": 4709,
-     "pushed": "2026-10-23",
+     "stars": 4869,
+     "pushed": "2026-11-07",
      "archived": false
     },
     {
      "repo": "ysr666/dsh-vision-router",
      "desc": "视觉路由：为纯文本模型接入看图能力",
-     "stars": 1207,
-     "pushed": "2026-11-01",
+     "stars": 1248,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "Anionex/dsh-vision-toolkit",
      "desc": "视觉工具箱：粘贴图片识别、多图问答、截图还原前端",
-     "stars": 920,
-     "pushed": "2026-10-27",
+     "stars": 934,
+     "pushed": "2026-11-06",
      "archived": false
     }
    ]
@@ -254,36 +254,36 @@
     {
      "repo": "NanmiCoder/dsh-agent-teams",
      "desc": "Agent Teams：多个 Agent 组队分工、并行协作",
-     "stars": 2634,
-     "pushed": "2026-10-30",
+     "stars": 2798,
+     "pushed": "2026-11-06",
      "archived": false
     },
     {
      "repo": "Fei2411/DeepSeek-Bot",
      "desc": "长期运行的机器人团队，支持 bot 间消息",
-     "stars": 4976,
-     "pushed": "2026-11-02",
+     "stars": 6466,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "xiaobright/dsh-anchored-standard",
      "desc": "两阶段预设：最小化启动，再加载完整工具",
-     "stars": 3729,
+     "stars": 3721,
      "pushed": "2026-10-21",
      "archived": false
     },
     {
      "repo": "chuspeeism/dashi-taskboard",
      "desc": "可嵌入的任务面板（支持 Codex 与 dsh）",
-     "stars": 3433,
-     "pushed": "2026-10-29",
+     "stars": 3471,
+     "pushed": "2026-11-06",
      "archived": false
     },
     {
      "repo": "omdsh-dev/dsh-browser",
      "desc": "Chrome 侧边栏扩展，让 dsh 操作你的浏览器",
-     "stars": 958,
-     "pushed": "2026-10-01",
+     "stars": 1012,
+     "pushed": "2026-11-08",
      "archived": false
     }
    ]
@@ -295,29 +295,29 @@
     {
      "repo": "xmanrui/dsh-im",
      "desc": "把飞书、微信、钉钉、企业微信、QQ、Telegram 等机器人接入 dsh",
-     "stars": 3085,
-     "pushed": "2026-11-01",
+     "stars": 3392,
+     "pushed": "2026-11-07",
      "archived": false
     },
     {
      "repo": "dream-num/dsh-univer-office",
      "desc": "给 dsh 一个真正的办公环境（Univer 表格 / 文档）",
-     "stars": 654,
-     "pushed": "2026-10-30",
+     "stars": 701,
+     "pushed": "2026-11-03",
      "archived": false
     },
     {
      "repo": "Devin-AXIS/deepseek-design",
      "desc": "可编辑的设计系统与 PPT 工作室",
-     "stars": 1675,
-     "pushed": "2026-10-30",
+     "stars": 1779,
+     "pushed": "2026-11-04",
      "archived": false
     },
     {
      "repo": "1692775560/dsh-Mimir-Academic-research",
      "desc": "科研工作台：LaTeX、arXiv、实验追踪、GPU 任务",
-     "stars": 551,
-     "pushed": "2026-10-28",
+     "stars": 562,
+     "pushed": "2026-11-04",
      "archived": false
     }
    ]
@@ -329,36 +329,36 @@
     {
      "repo": "shanliuling/dsh-image-gen",
      "desc": "对话内生成和编辑图像，内置 500+ 提示词，支持 ComfyUI",
-     "stars": 1060,
-     "pushed": "2026-11-02",
+     "stars": 1189,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "zenstory-ai/oh-story-dsh",
      "desc": "网文、短剧、游戏、视频解说四个创作工作台",
-     "stars": 667,
-     "pushed": "2026-10-30",
+     "stars": 715,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "LiPu-jpg/Openwrite",
      "desc": "小说创作插件，含 90 个写作工具",
-     "stars": 907,
-     "pushed": "2026-10-28",
+     "stars": 935,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "sixtysevenlf/dsh-blender-plugin",
      "desc": "直连 Blender，让 AI 驱动 3D 建模",
-     "stars": 1544,
-     "pushed": "2026-11-01",
+     "stars": 1887,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "c1overzz/dsh-bili-scroll",
      "desc": "每天替你刷 B 站、读字幕、写日报",
-     "stars": 1128,
-     "pushed": "2026-10-31",
+     "stars": 1335,
+     "pushed": "2026-11-08",
      "archived": false
     }
    ]
@@ -370,22 +370,22 @@
     {
      "repo": "Han-1413141/dsh-cost-meter",
      "desc": "按会话、按模型统计 dsh 的花费和 Token",
-     "stars": 598,
-     "pushed": "2026-11-02",
+     "stars": 655,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
      "desc": "界面右下角的小鲸鱼，帮你盯 DeepSeek 账户余额",
-     "stars": 6735,
+     "stars": 7058,
      "pushed": "2026-10-11",
      "archived": false
     },
     {
      "repo": "xiufengsun/TokenTracker",
      "desc": "本地统计 31 种 AI 编程工具的 Token 和费用",
-     "stars": 2171,
-     "pushed": "2026-11-02",
+     "stars": 2210,
+     "pushed": "2026-11-09",
      "archived": false
     }
    ]
@@ -397,29 +397,29 @@
     {
      "repo": "PC2005-cloud/dsh-pet",
      "desc": "一行命令装好的桌面宠物",
-     "stars": 5269,
-     "pushed": "2026-11-02",
+     "stars": 5937,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "Small-tailqwq/dsh-deep-whale",
      "desc": "鲸鱼娘系列皮肤",
-     "stars": 2999,
-     "pushed": "2026-11-01",
+     "stars": 3071,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "elysia395/dsh-wallpaper-engine",
      "desc": "把 Wallpaper Engine 壁纸搬进 dsh 网页界面",
-     "stars": 4545,
-     "pushed": "2026-10-31",
+     "stars": 6074,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "flizzywine/dsh-tavern",
      "desc": "类酒馆文字游戏 Agent，兼容 SillyTavern 人物卡",
-     "stars": 1431,
-     "pushed": "2026-11-02",
+     "stars": 1530,
+     "pushed": "2026-11-09",
      "archived": false
     }
    ]
@@ -431,29 +431,29 @@
     {
      "repo": "anbeime/skill",
      "desc": "中文 Skills 商店：精选技能包，打包好可直接安装",
-     "stars": 9027,
-     "pushed": "2026-11-01",
+     "stars": 9325,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "vinvcn/mattpocock-skills-zh-CN",
      "desc": "Matt Pocock skills 简体中文版，人工审核、同步上游，支持 dsh",
-     "stars": 5478,
+     "stars": 5627,
      "pushed": "2026-10-28",
      "archived": false
     },
     {
      "repo": "jiweiyeah/Skills-Manager",
      "desc": "桌面端 Skills 管理器：写一次，同步到多个 Agent",
-     "stars": 1052,
+     "stars": 1058,
      "pushed": "2026-09-10",
      "archived": false
     },
     {
      "repo": "iflytek/skillhub",
      "desc": "可私有部署的企业级 Skills 仓库",
-     "stars": 5356,
-     "pushed": "2026-11-02",
+     "stars": 5374,
+     "pushed": "2026-11-09",
      "archived": false
     }
    ]
@@ -465,43 +465,43 @@
     {
      "repo": "tt-a1i/archify",
      "desc": "把想法、方案或代码库变成可交互的架构图",
-     "stars": 92523,
-     "pushed": "2026-11-02",
+     "stars": 94860,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "QingYunA/answer-me-with-html",
      "desc": "用一页 HTML 回答复杂问题",
-     "stars": 5057,
-     "pushed": "2026-11-02",
+     "stars": 6120,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "Jesseovo/last30days-skill-cn",
      "desc": "中文互联网研究：检索 8 大平台近 30 天讨论，生成带来源的报告",
-     "stars": 2027,
-     "pushed": "2026-11-02",
+     "stars": 2086,
+     "pushed": "2026-11-03",
      "archived": false
     },
     {
      "repo": "Anionex/agent-vision-toolkit",
      "desc": "给纯文本模型用的看图工具箱和技能",
-     "stars": 1254,
+     "stars": 1258,
      "pushed": "2026-10-13",
      "archived": false
     },
     {
      "repo": "XiaoMaColtAI/math-modeling-skill",
      "desc": "数学建模竞赛工作流：建模、编程、论文生成",
-     "stars": 1893,
-     "pushed": "2026-11-01",
+     "stars": 1913,
+     "pushed": "2026-11-08",
      "archived": false
     },
     {
      "repo": "Tencent/BrowserSkill",
      "desc": "让 Agent 使用你已登录的真实浏览器",
-     "stars": 9908,
-     "pushed": "2026-11-02",
+     "stars": 10210,
+     "pushed": "2026-11-09",
      "archived": false
     }
    ]
@@ -513,28 +513,28 @@
     {
      "repo": "alchaincyf/deepseek-harness-orange-book",
      "desc": "《DeepSeek Harness 橙皮书》：系统提示词、启动清单、实测日志，免费下载",
-     "stars": 1403,
+     "stars": 1418,
      "pushed": "2026-10-20",
      "archived": false
     },
     {
      "repo": "Electricitysheep/dsh-handbook",
      "desc": "从 0 到 1 深度手册：安装、插件开发、性能调优、实测",
-     "stars": 930,
-     "pushed": "2026-10-04",
+     "stars": 955,
+     "pushed": "2026-11-04",
      "archived": false
     },
     {
      "repo": "ht426/deepseek-harness-tutorial",
      "desc": "dsh 中文详细学习教程",
-     "stars": 296,
+     "stars": 311,
      "pushed": "2026-08-13",
      "archived": false
     },
     {
      "repo": "pingfanfan/hello-dsh",
      "desc": "零基础插件开发教程，含 22 个中文技能实例",
-     "stars": 106,
+     "stars": 107,
      "pushed": "2026-09-14",
      "archived": false
     }
@@ -547,21 +547,21 @@
     {
      "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
      "desc": "最大的 dsh 插件精选列表（中英）",
-     "stars": 21948,
-     "pushed": "2026-11-01",
+     "stars": 23910,
+     "pushed": "2026-11-09",
      "archived": false
     },
     {
      "repo": "0xsline/awesome-deepseek-harness",
      "desc": "英文生态大全，分类最细",
-     "stars": 1293,
-     "pushed": "2026-10-16",
+     "stars": 1334,
+     "pushed": "2026-11-06",
      "archived": false
     },
     {
      "repo": "libukai/awesome-deepseek-harness",
      "desc": "中文生态列表",
-     "stars": 343,
+     "stars": 367,
      "pushed": "2026-09-12",
      "archived": false
     }
