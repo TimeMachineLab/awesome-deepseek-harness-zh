@@ -24,6 +24,7 @@
 
 | 项目 | 说明 |
 |---|---|
+| [wwewtech/numes-deepseek-harness](https://github.com/wwewtech/numes-deepseek-harness) | 免费使用 Numes 市场的 `$0` 模型：零依赖本地代理，`:free` + `max_price` 双重零成本防护、5 秒到 5 分钟指数重试、免费模型自动发现 |
 | 开发方 | DeepSeek AI，官方仓库 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) |
 | 定位 | 开源 AI Agent 运行框架，**一切功能都是插件**：模型、工具、界面、记忆都能替换 |
 | 协议 | MIT，软件本身免费 |
